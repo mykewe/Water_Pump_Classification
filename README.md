@@ -1,5 +1,5 @@
 # Water_Pump_Classification
-Here are my attempts at the competition 'Pump It Up: Data Mining the Water Table'. The first notebook contains the Explorational data Analysis (EDA) and feature engineering, the second notebook contains feature engineering and the third, model building where the following models where used:
+Here are my attempts at the competition 'Pump It Up: Data Mining the Water Table'. The first notebook contains the Explorational data Analysis (EDA) and feature engineering, the second notebook contains feature engineering and the third, model building were the following models where used:
 * Decision Tree (75.1%),
 * K Nearest Neighbor  (77.4%),
 * **Random Forest     (80.2%)**,
