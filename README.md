@@ -6,6 +6,6 @@ Here are my attempts at the competition 'Pump It Up: Data Mining the Water Table
 * Xtreme Gradient Boosting (74.5%),
 * Soft Voting Classifier - All Models (79.5%)
 
-Random Forest turns out to be the best model
+Random Forest turns out to be the best model which ranks among the top 17%
 
 The data used and more information can be obtained here: https://www.drivendata.org/competitions/7/
